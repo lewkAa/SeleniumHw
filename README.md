@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/8t63isiq5syaf644/branch/main?svg=true)](https://ci.appveyor.com/project/lewkAa/seleniumhw/branch/
+[![Build status](https://ci.appveyor.com/api/projects/status/8t63isiq5syaf644/branch/main?svg=true)](https://ci.appveyor.com/project/lewkAa/seleniumhw/branch/)
